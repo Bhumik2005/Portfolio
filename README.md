@@ -53,7 +53,7 @@ Open http://localhost:5173
 |---|---|---|
 | Fake News Detector | Python, NLP, scikit-learn | [Open](https://fake-news-detector-y6d9bbiemhqyd42t3xobrt.streamlit.app/) |
 | Iris Classification | Python, scikit-learn | Coming soon |
-| Titanic Survival | Python, Pandas | Coming soon |
+| Titanic Survival | Python, Pandas | [Open](https://titanic-survival-gkwnpn3yxs5dsb5jwnauhb.streamlit.app/) |
 | Feedback MERN App | React, Node.js, MongoDB | Coming soon |
 
 ---
