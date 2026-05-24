@@ -74,7 +74,7 @@ export const projects = [
     emoji: "💬",
     description: "Full-stack feedback system with MongoDB, Express, React and Node.js. Complete REST API with CRUD, MongoDB Atlas persistence, and React frontend.",
     github: "https://github.com/Bhumik2005/feedback-mern",
-    live: "#",
+    live: "https://feedback-mern-qwqi.vercel.app/",
     tags: ["React", "Node.js", "MongoDB", "Express"],
     featured: false,
     accentColor: "#fbbf24",
