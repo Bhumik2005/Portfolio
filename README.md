@@ -59,9 +59,6 @@ Open http://localhost:5173
 ---
 
 ## Contact
-*GitHub: @Bhumik2005
-*LeetCode: Bhumik_Kumta
-*Email: bhumikkumta@gmail.com
 - GitHub: [@Bhumik2005](https://github.com/Bhumik2005)
 - LeetCode: [Bhumik_Kumta](https://leetcode.com/u/Bhumik_Kumta/)
 - Email: bhumikkumta@gmail.com
