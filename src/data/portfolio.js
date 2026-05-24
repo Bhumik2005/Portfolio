@@ -52,7 +52,7 @@ export const projects = [
     emoji: "🌸",
     description: "Full ML pipeline for iris species prediction — EDA, feature engineering, and comparison of KNN, SVM, Decision Tree classifiers with cross-validation.",
     github: "https://github.com/Bhumik2005/iris-classification",
-    live: "#",
+    live: "https://iris-classification-9bjifxwyxvhffbdawk7hns.streamlit.app/",
     tags: ["Python", "scikit-learn", "Classification", "EDA"],
     featured: true,
     accentColor: "#5eead4",
